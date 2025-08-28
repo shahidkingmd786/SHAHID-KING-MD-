@@ -1,10 +1,10 @@
 {
-  "name": "Shahid-king-md-",
+  "name": "shahid-king-md-",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By Shahid-king-md-",
+  "description": "A WhatsApp Bot Created By shahid-king-md-",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Shahid-king-md-",
+    "start": "pm2 start index.js --deep-monitoring --attach --name shahid-king-md-",
     "stop": "pm2 stop shahid-king-md-",
     "restart": "pm2 restart shahid-king-md-"
   },
