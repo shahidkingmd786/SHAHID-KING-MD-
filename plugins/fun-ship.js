@@ -38,8 +38,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363403870276377@newsletter",
-          newsletterName: "PROxABDULLAH-MD Official",
+          newsletterJid: "120363420842499241@newsletter",
+          newsletterName: "SHAHID KING-MD",
           serverMessageId: 143
         }
       }
