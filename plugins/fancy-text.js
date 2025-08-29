@@ -22,7 +22,7 @@ cmd({
     }
 
     const fonts = response.data.result.map(item => `*${item.name}:*\n${item.result}`).join("\n\n");
-    const resultText = `✨ *Fancy Fonts Converter* ✨\n\n${fonts}\n\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Arslan_MD ❣️*`;
+    const resultText = `✨ *Fancy Fonts Converter* ✨\n\n${fonts}\n\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ SHAHID KING-MD ❣️*`;
 
     await conn.sendMessage(from, { text: resultText }, { quoted: m });
   } catch (error) {
