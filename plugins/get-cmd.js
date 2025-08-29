@@ -39,7 +39,7 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PROxABDULLAH-MD* 💜`;
+*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ SHAHID-KING-MD-* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
